@@ -12,7 +12,10 @@
           - 적절한 K(클러스터 개수)값 구하기
           - 실루엣 점수로 가장 적절한 K값 판단하기
      - Data Visualization
-4. 인공신경망 구성하기
+4. 인공신경망 구성하기(1)
      - Pytorch
           - TensorDataset and DataLoader
-       
+5. 인공신경망 구성하기(2)
+     - Pytorch
+     - torchvision's FashionMNIST dataset
+     - Save & load Neural Network
